@@ -1,4 +1,4 @@
-# Shruti Samal – portfolio
+# Shruti Samal - portfolio
 
 Static site: plain HTML, CSS and JavaScript. No build step.
 

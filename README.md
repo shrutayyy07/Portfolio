@@ -14,8 +14,4 @@ Static site: plain HTML, CSS and JavaScript. No build step.
 2. Install the "Live Server" extension, right-click `index.html` > Open with Live Server.
    (Or in a terminal: `npx serve .`)
 
-## Deploy on Vercel
-1. Push this folder to a new GitHub repository.
-2. vercel.com > Add New > Project > import the repository.
-3. Framework Preset: Other. Leave Build Command and Output Directory empty. Click Deploy.
-4. Every later `git push` redeploys automatically.
+## Visit the site: https://shrutisamalportfolio.vercel.app
